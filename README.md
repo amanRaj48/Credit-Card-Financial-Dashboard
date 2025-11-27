@@ -98,6 +98,9 @@ e.)1 Slicer(Week Start Date Filter).
 
 f.) 4 KPI Cards(Sum of Revenue,Interest Earned,Total Transaction Amount,Total Transaction Count).
 
+Dashboard Images : 1. <img width="1362" height="761" alt="CC_Transaction_Report" src="https://github.com/user-attachments/assets/83e5d387-e07d-4d6d-a18c-31cd93bcfd10" />
+
+                   2. <img width="1400" height="755" alt="CC_Customer_Report" src="https://github.com/user-attachments/assets/2d521d83-a22e-4f5a-8d53-bdead6439b0b" />
 
 
 6. Key Learning Outcomes
