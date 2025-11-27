@@ -106,6 +106,7 @@ f.) 4 KPI Cards(Sum of Revenue,Interest Earned,Total Transaction Amount,Total Tr
 
 -Multi-dimensional revenue analysis.
 
+<img width="1362" height="761" alt="CC_Transaction_Report" src="https://github.com/user-attachments/assets/e9e74257-15c1-4ab8-89aa-bf3126e7c7df" />
 
 
 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/aman-raj46983/
